@@ -20,7 +20,7 @@ $ npm install --global gulp
 $ defaults write com.apple.finder AppleShowAllFiles YES.
 ```
 4.b. Relaunch the Finder
-5. Download this repo with the "Download ZIP" folder on the right
+5. Download this repo with the "Download ZIP" button on the right
 7. Unzip and `cd` to the downloaded directory
 8. Install dependencies
 ```
