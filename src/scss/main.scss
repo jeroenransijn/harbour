@@ -31,7 +31,6 @@
 
 // Base
 @import 'base/body';
-@import 'base/forms';
 @import 'base/headings';
 @import 'base/links';
 @import 'base/paragraph';
@@ -41,7 +40,10 @@
 @import 'layout/sticky-footer';
 
 // Components
-@import 'components/example';
+@import 'components/panes';
+@import 'components/buttons';
+@import 'components/page-headers';
+@import 'components/page-footers';
 
 // Pages
 @import 'pages/example';
