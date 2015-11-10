@@ -20,9 +20,10 @@
 @import 'utilities/respond';
 @import 'utilities/media';
 @import 'utilities/padding-box';
+@import 'utilities/clearfix';
 
 // Reset
-@import 'reset/normalize';
+@import 'reset/reset';
 @import 'reset/box-sizing';
 
 // Vendor Overrides
@@ -30,15 +31,13 @@
 
 // Base
 @import 'base/body';
-@import 'base/buttons';
 @import 'base/forms';
 @import 'base/headings';
 @import 'base/links';
 @import 'base/paragraph';
 
 // Layout
-@import 'layout/page-section';
-@import 'layout/inner';
+@import 'layout/inners';
 @import 'layout/sticky-footer';
 
 // Components
